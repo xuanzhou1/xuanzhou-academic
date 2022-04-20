@@ -28,15 +28,12 @@ organizations:
     url: https://www.polimi.it/en/
 education:
   courses:
-    - course: PhD in Aircraft Design
-      institution: Beihang University
-      year: 2019
     - course: MEng in Aircraft Design
       institution: Beihang University
-      year: 2017
+      year: 2018
     - course: BSc in Aircraft Design and Engineering
       institution: Beihang University
-      year: 2013
+      year: 2017
 email: zhoux@buaa.edu.cn
 superuser: true
 highlight_name: true
