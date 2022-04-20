@@ -10,14 +10,9 @@ authors:
   - Staya N Atluri
 author_notes:
   - Beihang University
-  - 100191 Beijing
-  - People’s Republic of China; Beihang University
-  - 100191 Beijing
-  - People’s Republic of China;Beihang University
-  - 100191 Beijing
-  - People’s Republic of China; Texas Tech University
-  - Lubbock
-  - Texas 79409
+  - Beihang University
+  - Beihang University
+  - Texas Tech University
 doi: 10.2514/1.J060890
 publication: AIAA Journal
 publication_short: AIAA J
@@ -50,3 +45,6 @@ image:
   preview_only: false
 date: 2022-04-20T21:35:38.875Z
 ---
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
