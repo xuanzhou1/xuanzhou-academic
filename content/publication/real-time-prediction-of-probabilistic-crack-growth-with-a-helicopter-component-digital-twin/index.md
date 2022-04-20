@@ -4,14 +4,18 @@ title: Real-Time Prediction of Probabilistic Crack Growth with a Helicopter
 publication_types:
   - "2"
 authors:
-  - Xuan Zhou^{1}
+  - Xuan Zhou
   - Shuangxin He
   - Leiting Dong
   - Staya N Atluri
 author_notes:
-  - 1. Beihang University
+  - Beihang University
   - 100191 Beijing
-  - People’s Republic of China\n2.Texas Tech University
+  - People’s Republic of China; Beihang University
+  - 100191 Beijing
+  - People’s Republic of China;Beihang University
+  - 100191 Beijing
+  - People’s Republic of China; Texas Tech University
   - Lubbock
   - Texas 79409
 doi: 10.2514/1.J060890
