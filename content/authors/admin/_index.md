@@ -1,7 +1,7 @@
 ---
 title: Xuan Zhou
 role: Ph.D. Student
-avatar_filename: personal_photo_xuanzhou.jpg
+avatar_filename: avatar.jpg.jpg
 bio: My research interests include airframe digital twin, structural health
   monitoring, machine learning in engineering.
 interests:
