@@ -3,7 +3,8 @@ title: Key technologies for modeling and simulation of airframe digital twin
 publication_types:
   - "2"
 authors:
-  - Leiting Dong; Xuan Zhou
+  - Leiting Dong
+  - Xuan Zhou
   - Fubin Zhao
   - Shuangxin He
   - Zhiyuan Lu
@@ -14,7 +15,6 @@ author_notes:
   - Beihang University
   - Beihang University
   - Beihang University
-  - ""
   - AVIC Aircraft Strength Research Institute
 doi: 10.7527/S1000-6893.2020.23981
 publication: Hangkong Xuebao/Acta Aeronautica et Astronautica Sinica
