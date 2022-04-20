@@ -42,4 +42,3 @@ content:
 design:
   columns: "2"
 ---
-email: zhoux@buaa.edu.cn
