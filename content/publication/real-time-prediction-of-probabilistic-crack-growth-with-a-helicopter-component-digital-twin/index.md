@@ -38,7 +38,12 @@ abstract: To deploy the airframe digital twin or to conduct probabilistic
   flight/inspection/monitoring data.
 draft: false
 featured: true
-categories: []
+tags:
+  - Digital Twin
+  - Helicopter
+  - Crack Growth
+categories:
+  - Digital Twin
 image:
   filename: featured
   focal_point: Smart
