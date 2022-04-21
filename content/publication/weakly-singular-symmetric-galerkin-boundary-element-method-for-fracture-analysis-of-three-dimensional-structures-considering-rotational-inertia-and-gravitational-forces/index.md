@@ -14,6 +14,7 @@ author_notes:
   - Beihang University
   - Beihang University
   - Beihang University
+  - Beihang University
   - Texas Tech University
 doi: 10.32604/cmes.2022.019160
 publication: Computer Modeling in Engineering & Sciences
@@ -30,7 +31,7 @@ abstract: The Symmetric Galerkin Boundary Element Method is advantageous for the
   method, the domain integral terms caused by body forces are transformed into
   boundary integrals. And due to the weak singularity of the formulated boundary
   integral equations, a simple Gauss-Legendre quadrature with a few integral
-  points is su cient for numerically evaluating the SGBEM equations. Some
+  points is suffcient for numerically evaluating the SGBEM equations. Some
   numerical examples are presented to verify this approach and results are
   compared with benchmark solutions.
 draft: false
@@ -47,5 +48,9 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: " In this study, weakly-singular SGBEM for fracture analysis of
+  three-dimensional structures considering rotational inertia and gravitational
+  forces are developed, and some numerical examples are presented to verify this
+  approach and results are compared with benchmark solutions."
 date: 2022-04-20T22:06:48.713Z
 ---
