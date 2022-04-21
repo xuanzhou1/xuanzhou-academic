@@ -45,8 +45,10 @@ tags:
 categories:
   - Digital Twin
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: The proposed reduced-order simulation approach is  a key simulation
+    technology toward realizing the digital twin of complex structures
 date: 2022-01-11
 ---
