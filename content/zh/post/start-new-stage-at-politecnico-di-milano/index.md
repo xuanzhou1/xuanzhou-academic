@@ -1,9 +1,7 @@
 ---
-title: Start new stage at Politecnico di Milano
+title: 开启米兰理工的新经历
 date: 2021-09-11
-summary: With the financial support of the China Scholarship Council, Xuan
-  starts the double-degree PhD at Politecnico di Milano, Italy, under the
-  supervision of Prof. Marco Giglio and Associate Prof. Claudio Sbarufatti.
+summary: 在中国国家留学基金管理委员会的资助下，我将开始在意大利米兰理工大学攻读博士双学位。外方导师为Marco Giglio教授和Claudio Sbarufatti副教授。
 draft: false
 featured: false
 image:
@@ -11,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-With the financial support of the China Scholarship Council, Xuan starts the double-degree PhD at Politecnico di Milano, Italy, under the supervision of Prof. Marco Giglio and Associate Prof. Claudio Sbarufatti.
+在中国国家留学基金管理委员会的资助下，我将开始在意大利米兰理工大学攻读双学位博士。外方导师为Marco Giglio教授和Claudio Sbarufatti副教授。
