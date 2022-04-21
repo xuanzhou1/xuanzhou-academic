@@ -52,5 +52,5 @@ summary: " In this study, weakly-singular SGBEM for fracture analysis of
   three-dimensional structures considering rotational inertia and gravitational
   forces are developed, and some numerical examples are presented to verify this
   approach and results are compared with benchmark solutions."
-date: 2022-04-20T22:06:00.000Z
+date: 2022-04-19
 ---
