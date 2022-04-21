@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include airframe digital twin, structural health
   monitoring, machine learning in engineering.
 interests:
-  - Digital Twin
+  - Structural Integrity and Airframe Digital Twin
   - Structural Health Monitoring
-  - Machine Learning.
+  - Surrogate Modelling and Machine Learning in Engineering
 social:
   - icon: envelope
     icon_pack: fas
