@@ -15,14 +15,14 @@ content:
   autolink: true
 
   address:
-    street: Via La Masa, 1, , 
+    street: Via La Masa, 1
     city: Milano
     region: Lombardia
     postcode: "20156"
     country: Italy
     country_code: ITA
     
-  email: zhoux@buaa.edu.cn, xuan1.zhou@mail.polimi.it
+  email: zhoux@buaa.edu.cn; xuan1.zhou@mail.polimi.it
 design:
   columns: "2"
 ---
