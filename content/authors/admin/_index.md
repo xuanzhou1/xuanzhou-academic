@@ -30,7 +30,7 @@ education:
   courses:
     - course: MEng in Aircraft Design
       institution: Beihang University
-      year: 2018
+      year: 2019
     - course: BSc in Aircraft Design and Engineering
       institution: Beihang University
       year: 2017
