@@ -50,10 +50,6 @@ image:
   preview_only: false
   caption: The proposed reduced-order simulation approach is  a key simulation
     technology toward realizing the digital twin of complex structures
-summary: " In this paper, a reduced-order simulation approach is developed by
-  leveraging the symmetric Galerkin boundary element method–finite element
-  method (SGBEM-FEM) coupling method and machine learning methods to realize a
-  real-time prediction of probabilistic crack growth in complex structures with
-  minimum computational burden."
+summary: " 在本文中，通过利用对称伽辽金边界元-有限元（SGBEM-FEM）耦合法和机器学习方法开发了一种降阶仿真方法，可实现复杂结构中裂纹增长的实时预测。"
 date: 2022-01-11
 ---
