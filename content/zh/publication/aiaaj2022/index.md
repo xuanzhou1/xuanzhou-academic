@@ -9,10 +9,10 @@ authors:
   - Leiting Dong
   - Staya N Atluri
 author_notes:
-  - Beihang University
-  - Beihang University
-  - Beihang University
-  - Texas Tech University
+  - 北京航空航天大学
+  - 北京航空航天大学
+  - 北京航空航天大学
+  - 德州理工大学
 doi: 10.2514/1.J060890
 publication: AIAA Journal
 publication_short: AIAA J

@@ -3,7 +3,7 @@ widget: contact
 widget_id: update first
 headless: true
 weight: 130
-title: Contact
+title: 联系本人
 subtitle: null
 content:
   form:
@@ -15,14 +15,14 @@ content:
   autolink: true
 
   address:
-    street: Via La Masa, 1
-    city: Milano
-    region: Lombardia
-    postcode: "20156"
-    country: Italy
-    country_code: ITA
+    street: 学院路37号
+    city: 海淀区
+    region: 北京
+    postcode: "100191"
+    country: 中国
+    country_code: CHN
     
-  email: zhoux@buaa.edu.cn; xuan1.zhou@mail.polimi.it
+  email: zhoux@buaa.edu.cn
 design:
   columns: "2"
 ---

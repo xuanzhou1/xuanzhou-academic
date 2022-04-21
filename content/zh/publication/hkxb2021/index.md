@@ -1,43 +1,24 @@
 ---
-title: Key technologies for modeling and simulation of airframe digital twin
+title: 飞机结构数字孪生关键建模仿真技术
 publication_types:
   - "2"
 authors:
-  - Leiting Dong
-  - Xuan Zhou
-  - Fubin Zhao
-  - Shuangxin He
-  - Zhiyuan Lu
-  - Jianmin Feng
+  - 董雷霆
+  - 周轩
+  - 赵福斌
+  - 贺双新
+  - 卢志远
+  - 冯建民
 author_notes:
-  - Beihang University
-  - Beihang University
-  - Beihang University
-  - Beihang University
-  - Beihang University
-  - AVIC Aircraft Strength Research Institute
+  - 北京航空航天大学
+  - 北京航空航天大学
+  - 北京航空航天大学
+  - 北京航空航天大学
+  - 北京航空航天大学
+  - 航空工业飞机强度研究所
 doi: 10.7527/S1000-6893.2020.23981
-publication: Hangkong Xuebao/Acta Aeronautica et Astronautica Sinica
-abstract: The design philosophy for airframe safety has experienced evolution
-  from static strength, safety life, damage tolerance and durability, to
-  individual aircraft tracking, with a trend towards the airframe digital twin
-  in the future. The airframe twin driven by the digital thread is a
-  multidisciplinary, multi-physical, multi-scale, multi-fidelity, and
-  multi-uncertainty virtual simulation system. It uses multi-source data such as
-  online sensor monitoring, offline ground inspection, and aircraft operation
-  history to reflect and predict the behavior and performance of the
-  corresponding airframe physical entity during the entire lifespan. It is
-  expected to reform the existing paradigm of airframe usage and maintenance.
-  Focusing on fatigue life management, this study proposes five key modeling and
-  simulation technologies, which are (a) acquisition of load and damage data,
-  (b) multi-scale mechanical modeling of airframes, (c) high-performance
-  simulation of damage development, (d) efficient digital twin construction
-  based on Reduced Order Modeling (ROM), (e) Remaining Useful Life (RUL)
-  assessment considering multi-source uncertainty and heterogeneous data. This
-  article discusses the state of the art of the proposed five key technologies
-  as well as future research directions, providing reference for the systematic
-  study and engineering applications of the airframe digital twin. © 2021,
-  Beihang University Aerospace Knowledge Press. All right reserved.
+publication: 航空学报
+abstract: 飞机结构安全性设计思想经历了从静强度设计、安全寿命设计、损伤容限与耐久性设计到单机追踪的演变,未来有进一步向结构数字孪生的方向发展的趋势。飞机结构数字孪生是数字线程驱动的,多学科、多物理、多尺度、多保真度、多概率的模拟仿真系统,采用在线传感器监测、离线地面检查、飞机运行历史等多源数据,反映并预测对应飞机结构实体在全寿命周期内的行为和性能,有望革新现有的飞机结构使用和维护模式。面向疲劳寿命管理,提出飞机结构数字孪生的5项关键建模仿真技术,分别是载荷和损伤的数据获取技术、多尺度建模和力学分析技术、含裂纹复杂结构的精确高效仿真技术、基于降阶的数字孪生高效建模技术和考虑不确定性与多源异构数据的剩余寿命评估技术,并详细探讨这五项关键技术的研究现状与发展方向,为飞机结构数字孪生的系统研究与工程应用提供参考。 
 draft: false
 featured: false
 tags:
@@ -48,6 +29,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: " 面向疲劳寿命管理,提出飞机结构数字孪生的五项关键建模仿真技术，并详细探讨这五项关键技术的研究现状与发展方向,为飞机结构数字孪生的系统研究与工程应用提供参考。 "
 date: 2021-03-15
 ---
 In Chinese

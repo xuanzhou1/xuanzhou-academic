@@ -22,7 +22,7 @@ content:
     country: Italy
     country_code: ITA
     
-  email: zhoux@buaa.edu.cn; xuan1.zhou@mail.polimi.it
+  email: xuan1.zhou@mail.polimi.it
 design:
   columns: "2"
 ---
