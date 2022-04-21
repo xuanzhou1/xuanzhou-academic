@@ -3,7 +3,7 @@ widget: pages
 widget_id: enable recent pubs
 headless: true
 weight: 90
-title: Recent Publications
+title: 近期发表
 subtitle: ""
 active: true
 content:
