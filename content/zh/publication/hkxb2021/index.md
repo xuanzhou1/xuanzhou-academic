@@ -3,7 +3,7 @@ title: 飞机结构数字孪生关键建模仿真技术
 publication_types:
   - "2"
 authors:
-  - 董雷霆
+  - 董雷霆，通讯作者
   - 周轩
   - 赵福斌
   - 贺双新

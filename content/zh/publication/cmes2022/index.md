@@ -7,8 +7,8 @@ publication_types:
 authors:
   - Shuangxin He
   - Chaoyang Wang
-  - Xuan Zhou
-  - Leiting Dong
+  - Xuan Zhou，通讯作者
+  - Leiting Dong，通讯作者
   - Satya N. Atluri
 author_notes:
   - Beihang University

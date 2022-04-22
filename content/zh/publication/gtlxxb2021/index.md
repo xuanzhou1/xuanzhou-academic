@@ -5,7 +5,7 @@ publication_types:
 authors:
   - 赵福斌
   - 周轩
-  - 董雷霆
+  - 董雷霆，通讯作者
 author_notes:
   - 北京航空航天大学
   - 北京航空航天大学
