@@ -7,15 +7,15 @@ publication_types:
 authors:
   - Shuangxin He
   - Chaoyang Wang
-  - Xuan Zhou，通讯作者
-  - Leiting Dong，通讯作者
+  - Xuan Zhou
+  - Leiting Dong
   - Satya N. Atluri
 author_notes:
-  - Beihang University
-  - Beihang University
-  - Beihang University
-  - Beihang University
-  - Texas Tech University
+  - 北京航空航天大学
+  - 北京航空航天大学
+  - 北京航空航天大学，通讯作者
+  - 北京航空航天大学，通讯作者
+  - 德州理工大学
 doi: 10.32604/cmes.2022.019160
 publication: Computer Modeling in Engineering & Sciences
 publication_short: CMES
