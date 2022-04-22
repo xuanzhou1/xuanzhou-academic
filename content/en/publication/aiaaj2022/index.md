@@ -28,7 +28,7 @@ categories:
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: The proposed reduced-order simulation approach is  a key simulation
     technology toward realizing the digital twin of complex structures
 summary: " In this paper, a reduced-order simulation approach is developed by

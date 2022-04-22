@@ -1,7 +1,7 @@
 ---
 title: 开启米兰理工的新经历
 date: 2021-09-11
-summary: 在中国国家留学基金管理委员会的资助下，我将开始在意大利米兰理工大学攻读博士双学位。外方导师为Marco Giglio教授和Claudio Sbarufatti副教授。
+summary: 在国家留学基金委的资助下，我将从2021年9月开始在意大利米兰理工大学机械工程系攻读双学位博士,并在米理和北航的导师的共同指导下继续开展研究。
 draft: false
 featured: false
 image:
@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-在中国国家留学基金管理委员会的资助下，我将开始在意大利米兰理工大学攻读双学位博士。外方导师为Marco Giglio教授和Claudio Sbarufatti副教授。
+在国家留学基金委的资助下，我将从2021年9月开始在意大利米兰理工大学机械工程系攻读双学位博士，并在米理和北航的导师的共同指导下继续开展研究。
