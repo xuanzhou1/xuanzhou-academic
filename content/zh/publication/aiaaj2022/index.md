@@ -52,4 +52,6 @@ image:
     technology toward realizing the digital twin of complex structures
 summary: " 在本文中，通过利用对称伽辽金边界元-有限元（SGBEM-FEM）耦合法和机器学习方法开发了一种降阶仿真方法，可实现复杂结构中裂纹增长的实时预测。"
 date: 2022-01-11
+share: true
+commentable: true
 ---

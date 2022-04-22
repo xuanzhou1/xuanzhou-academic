@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - posts
+      - post
     tag: ''
     category: ''
     publication_type: ''
@@ -36,4 +36,3 @@ design:
   view: compact
   columns: '2'
 ---
-
