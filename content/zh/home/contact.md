@@ -23,6 +23,7 @@ content:
     country_code: CHN
     
   email: zhoux@buaa.edu.cn
+  email: xuan1.zhou@mail.polimi.it
 design:
   columns: "2"
 ---
