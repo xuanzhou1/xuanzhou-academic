@@ -33,9 +33,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: " In this study, weakly-singular SGBEM for fracture analysis of
-  three-dimensional structures considering rotational inertia and gravitational
-  forces are developed, and some numerical examples are presented to verify this
-  approach and results are compared with benchmark solutions."
+summary: " 我们开发了一种用于考虑旋转惯性和重力的三维结构的断裂分析的弱奇异形SGBEM。该方法使用散度定理或径向积分法，可将由体力引起的域积分项被转换为边界积分项。"
 date: 2022-04-19
 ---
