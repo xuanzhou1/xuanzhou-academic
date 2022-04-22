@@ -15,35 +15,20 @@ author_notes:
   - 北京航空航天大学
   - 北京航空航天大学，通讯作者
   - 北京航空航天大学，通讯作者
-  - 德州理工大学
+  - 德州理工大学，美国
 doi: 10.32604/cmes.2022.019160
 publication: Computer Modeling in Engineering & Sciences
 publication_short: CMES
-abstract: The Symmetric Galerkin Boundary Element Method is advantageous for the
-  linear elastic fracture and crackgrowth analysis of solid structures, because
-  only boundary and crack-surface elements are needed. However, for engineering
-  structures subjected to body forces such as rotational inertia and
-  gravitational loads, additional domain integral terms in the Galerkin boundary
-  integral equation will necessitate meshing of the interior of the domain. In
-  this study, weakly-singular SGBEM for fracture analysis of three-dimensional
-  structures considering rotational inertia and gravitational forces are
-  developed. By using divergence theorem or alternatively the radial integration
-  method, the domain integral terms caused by body forces are transformed into
-  boundary integrals. And due to the weak singularity of the formulated boundary
-  integral equations, a simple Gauss-Legendre quadrature with a few integral
-  points is sufficient for numerically evaluating the SGBEM equations. Some
-  numerical examples are presented to verify this approach and results are
-  compared with benchmark solutions.
+abstract:对称伽辽金边界元（SGBEM）方法适合于固体结构的线性弹性断裂和裂纹增长分析中，因为在分析中只需要划分边界和裂纹表面单元。然而，对于受旋转惯性和重力载荷等体力作用的工程结构，伽辽金边界积分方程中额外的域积分项将需要对域的内部进行网格划分。在这项研究中，我们开发了用于考虑旋转惯性和重力的三维结构的断裂分析的弱奇异形SGBEM。使用散度定理或径向积分法，可将由体力引起的域积分项被转换为边界积分项。由于所推导的边界积分方程的弱奇异性，一个简单的带有几个积分点的高斯-勒让德（Gauss-Legendre）积分就足以对SGBEM方程进行数值计算。我们使用了一些数值算例对该方法进行验证，并将结果与基准解进行了比较。
 draft: false
 featured: false
 tags:
-  - Symmetric Galerkin boundary element method
-  - rotational inertia
-  - gravitational force
-  - weak singularity
-  - stress intensity factor
+  - 对称伽辽金边界元
+  - 体力
+  - 断裂力学
+  - 应力强度因子
 categories:
-  - Simulation
+  - 仿真
 image:
   filename: featured
   focal_point: Smart

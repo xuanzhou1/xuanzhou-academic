@@ -24,10 +24,9 @@ draft: false
 featured: false
 tags:
   - Symmetric Galerkin boundary element method
-  - rotational inertia
-  - gravitational force
-  - weak singularity
-  - stress intensity factor
+  - Fracture Mechanics
+  - Weak Singularity
+  - SIF
 categories:
   - Simulation
 image:

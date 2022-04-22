@@ -16,9 +16,13 @@ abstract: 飞机结构的检修工作需要根据裂纹扩展预测结果制定�
 draft: false
 featured: false
 tags:
-  - Digital Twin
+  - 数字孪生
+  - 航空结构
+  - 断裂力学
+  - 概率性
+  - 检查维修
 categories:
-  - Digital Twin
+  - 数字孪生
 image:
   filename: featured
   focal_point: Smart

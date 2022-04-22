@@ -17,6 +17,10 @@ draft: false
 featured: false
 tags:
   - Digital Twin
+  - ROM
+  - Aeronautic Structure
+  - Probabilistic
+  - Fracture Mechanics
 categories:
   - Digital Twin
 image:

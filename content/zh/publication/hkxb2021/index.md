@@ -22,9 +22,15 @@ abstract: 飞机结构安全性设计思想经历了从静强度设计、安全�
 draft: false
 featured: false
 tags:
-  - Digital Twin
+  - 数字孪生
+  - 降阶模型
+  - 结构健康监测
+  - 多尺度分析
+  - 断裂力学
+  - 应力强度因子
+  - 剩余寿命评估
 categories:
-  - Digital Twin
+  - 数字孪生
 image:
   filename: featured
   focal_point: Smart
@@ -32,4 +38,3 @@ image:
 summary: " 面向疲劳寿命管理,提出飞机结构数字孪生的五项关键建模仿真技术，并详细探讨这五项关键技术的研究现状与发展方向,为飞机结构数字孪生的系统研究与工程应用提供参考。 "
 date: 2021-03-15
 ---
-In Chinese
