@@ -17,9 +17,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/xuanzhou1
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Xuan-Zhou-16
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/my-orcid?orcid=0000-0002-2806-9654
 organizations:
   - name: 北京航空航天大学
     url: https://www.buaa.edu.cn/
