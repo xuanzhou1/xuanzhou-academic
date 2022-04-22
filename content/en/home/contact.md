@@ -11,7 +11,7 @@ content:
     formspree:
       ? id
     netlify:
-      captcha: false
+      captcha: true
   autolink: true
 
   address:
@@ -23,7 +23,7 @@ content:
     country_code: ITA
     
   email: xuan1.zhou@mail.polimi.it
-  email: zhoux@buaa.edu.cn
+
 design:
   columns: "2"
 ---

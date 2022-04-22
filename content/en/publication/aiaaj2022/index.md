@@ -23,6 +23,8 @@ tags:
   - Digital Twin
   - Helicopter
   - Crack Growth
+  - SIF
+  - ROM
 categories:
   - Digital Twin
 image:

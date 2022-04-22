@@ -23,7 +23,7 @@ abstract: The Symmetric Galerkin Boundary Element Method is advantageous for the
 draft: false
 featured: false
 tags:
-  - Symmetric Galerkin boundary element method
+  - SGBEM
   - Fracture Mechanics
   - Weak Singularity
   - SIF
