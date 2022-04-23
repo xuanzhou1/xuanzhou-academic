@@ -94,15 +94,16 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
-  show_related:
-    book: true
-    page: false
-    post: true
-    project: true
-    publication: true
-    event: true
+    
+show_related:
+  book: true
+  page: false
+  post: true
+  project: true
+  publication: true
+  event: true
 
-  sharing: true
+sharing: true
 # Extensions
 
 extensions:
