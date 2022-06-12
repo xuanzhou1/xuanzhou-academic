@@ -30,9 +30,6 @@ organizations:
     url: https://www.polimi.it/en/
 education:
   courses:
-    - course: 硕士，飞行器设计
-      institution: 北京航空航天大学
-      year: 2019
     - course: 学士，飞行器设计与工程
       institution: 北京航空航天大学
       year: 2017
