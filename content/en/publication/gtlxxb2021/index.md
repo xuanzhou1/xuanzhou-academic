@@ -28,6 +28,6 @@ image:
   focal_point: Smart
   preview_only: false
 summary: " an intelligent digital-twin-based strategy for the inspection and maintenance of aircraft skin cracks, which takes advantages of the reduced order fracture mechanics simulation, the fatigue crack growth model, the data of crack length inspections, and the framework of the dynamic Bayesian network, comprehensively considering the uncertainties of the initial crack size, crack growth model parameters, differential pressure load in flight, measurement error etc. "
-date: 2021-03-15
+date: 2021-06-17
 ---
 In Chinese
