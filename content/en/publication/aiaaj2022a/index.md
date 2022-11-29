@@ -33,7 +33,7 @@ categories:
   - Digital Twin
   - Domain Adaptation
 image:
-  filename: featured.png
+  filename: featured.svg
   focal_point: Smart
   preview_only: true
   caption: The accuracy of damage quantification can be improved significantly by the proposed method in realistic environments

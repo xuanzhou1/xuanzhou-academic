@@ -33,7 +33,7 @@ categories:
   - 数字孪生
   - 领域自适应
 image:
-  filename: featured.png
+  filename: featured.svg
   focal_point: Smart
   preview_only: true
   caption: 在现实环境中，所提出的方法可以显著提高损伤量化的准确性
