@@ -1,5 +1,5 @@
 ---
-title: 基于聚类的联合分布适应方法用于复材结构脱粘量化
+title: Cluster-Based Joint Distribution Adaptation Method for Debonding Quantification in Composite Structures
 publication_types:
   - "2"
 authors:
