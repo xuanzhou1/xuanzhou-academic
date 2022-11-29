@@ -2,7 +2,7 @@
 title: Xuan Zhou gets a grant from the Academic Excellence Foundation of BUAA for PhD Students.
 date: 2022-05-17
 summary: After the selection by the School of Aeronautic Science and Engineering and Beihang University, Xuan Zhou received a grant from the Academic Excellence Foundation of BUAA for PhD Students, under which he will carry on his dissertation research on the digital-twin-based individual aircraft tracking technology.
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
