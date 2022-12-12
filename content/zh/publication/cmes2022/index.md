@@ -5,10 +5,10 @@ title: Weakly Singular Symmetric Galerkin Boundary Element Method for Fracture
 publication_types:
   - "2"
 authors:
-  - Shuangxin He
-  - Chaoyang Wang
-  - Xuan Zhou
-  - Leiting Dong
+  - 贺双新
+  - 汪朝阳
+  - 周轩
+  - 董雷霆
   - Satya N. Atluri
 author_notes:
   - 北京航空航天大学
