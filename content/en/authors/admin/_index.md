@@ -37,6 +37,6 @@ email: zhoux@buaa.edu.cn
 superuser: true
 highlight_name: true
 ---
-He is currently pursuing his double Ph.D. at Politecnico di Milano, Department of Mechanical Engineering, from September 2021, as a continuation of the first half of his Ph.D. career at Beihang University. His main research interests are the key technologies of the airframe digital twin, including real-time reduced-order modeling, multidisciplinary co-simulation, the data fusion of SHM and simulation, etc. He is currently working on the construction of a structural digital twin of a UAV using advanced simulation and machine learning tools. He has five peer-reviewed papers published in *AIAA Journal*, *CMES*, and other journals.
+He is currently pursuing his double Ph.D. at Politecnico di Milano, Department of Mechanical Engineering, from September 2021, as a continuation of the first half of his Ph.D. career at Beihang University. His main research interests are the key technologies of the airframe digital twin, including real-time reduced-order modeling, multidisciplinary co-simulation, the data fusion of SHM and simulation, etc. He is currently working on the construction of a structural digital twin of a UAV using advanced simulation and machine learning tools. He has six peer-reviewed papers published in *AIAA Journal*, *CMES*, and other journals.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}-->
