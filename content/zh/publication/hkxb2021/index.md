@@ -40,5 +40,5 @@ date: 2021-03-15
 ---
 入选《航空学报》2018—2021年高影响力论文（共10篇）
 ![avatar](gyxllw.png)
-链接：https://mp.weixin.qq.com/s/I7aQrlP-WtGRv8rYj2yUZw
+链接：![《航空学报》2018—2021年高影响力论文](https://mp.weixin.qq.com/s/I7aQrlP-WtGRv8rYj2yUZw)
 
