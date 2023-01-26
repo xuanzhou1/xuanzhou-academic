@@ -3,10 +3,10 @@ title: Setting Adaptive Inspection Intervals in Helicopter Components, Based on 
 publication_types:
   - "2"
 authors:
-  - Fubin Zhao
-  - Xuan Zhou
-  - Chaoyang Wang
-  - Leiting Dong
+  - 赵福斌
+  - 周轩
+  - 汪朝阳
+  - 董雷霆
   - Staya N Atluri
 author_notes:
   - 北京航空航天大学
@@ -34,6 +34,6 @@ image:
   focal_point: Smart
   preview_only: true
   caption: 基于所提出的裂纹检查策略得到的裂纹扩展检查结果
-summary: " 在这项研究中，我们提出了一种基于数字双胞胎的智能裂纹检查策略，其中降阶断裂力学仿真方法、经过验证的疲劳裂纹增长模型和历史裂纹长度检查结果被整合到一个动态贝叶斯网络中。所提出的策略利用两个相连的概率过程，分别进行诊断/预后和计算检查间隔，根据数字孪生模型的更新，自适应地设置检查间隔。"
+summary: " 提出了一种基于数字双胞胎的智能裂纹检查策略，利用两个相连的概率过程，分别进行诊断/预后和计算检查间隔，根据数字孪生模型的更新，自适应地设置检查间隔。"
 date: 2023-01-15
 ---
