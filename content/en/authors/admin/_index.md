@@ -39,4 +39,4 @@ highlight_name: true
 ---
 Xuan Zhou is currently a Ph.D. candidate at the School of Aeronautic Science and Engineering, Beihang University and the Department of Mechanical Engineering, Politecnico di Milano. His research interests include structural integrity, airframe digital twins, structural health monitoring, and surrogate modeling. He has published 7 articles in the mainstream peer-reviewed journals in aeronautical engineering and computational mechanics, including the AIAA Journal, Mechanical Systems and Signal Processing, Computer Modeling in Engineering & Sciences, Acta Aeronautica et Astronautica Sinica.
 
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Curriculum_Vitae_Xuan Zhou.pdf" "newtab" >}}resumé{{< /staticref >}}, updated 2023-01-27
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Curriculum_Vitae_Xuan Zhou_EN.pdf" "newtab" >}}resumé{{< /staticref >}}, updated 2023-01-27
