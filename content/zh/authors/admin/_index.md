@@ -39,4 +39,4 @@ highlight_name: true
 ---
 北京航空航天大学航空科学与工程学院和米兰理工大学机械工程系双学位博士生。研究兴趣包括结构完整性、机体数字孪生、结构健康监测和工程代理模型，学位论文研究获得北航博士生卓越学术基金资助。截至目前在AIAA Journal、Mechanical Systems and Signal Processing, 航空学报等国内外航空/机械领域权威期刊上发表了7篇论文，其中一作/通讯5篇。
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}-->
+ {{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "uploads/Curriculum_Vitae_Xuan Zhou.pdf" "newtab" >}}英文简历{{< /staticref >}}, updated 2023-01-27
