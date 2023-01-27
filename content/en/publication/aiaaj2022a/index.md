@@ -37,6 +37,6 @@ image:
   focal_point: Smart
   preview_only: true
   caption: The accuracy of damage quantification can be improved significantly by the proposed method in realistic environments
-summary: " In this paper, a novel domain adaptation method is proposed to assist diagnostic tasks based on labeled data from similar structures or simulations and is then applied to cracked lap shear specimens to assist debonding quantification."
+summary: "A novel domain adaptation method is proposed to assist diagnostic tasks based on labeled data from similar structures or simulations and is then applied to cracked lap shear specimens to assist debonding quantification."
 date: 2022-11-28
 ---
