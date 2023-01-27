@@ -18,7 +18,7 @@ author_notes:
   - Polytechnic University of Milan
 doi: 10.2514/1.J062417
 publication: AIAA Journal
-publication_short: AIAA J
+publication_short: AIAAJ
 abstract: Adhesive bonding is widely adopted in aeronautic structures to join composite materials or to repair damaged substrates. However, one of the most common failure modes for this type of joint is debonding under fatigue loading. In the past years, it has been proven that deboning quantification is feasible, given that abundant experimental data are available. In this context, using domain adaptation to assist diagnostic tasks based on labeled data from similar structures or simulations would be thoroughly beneficial. However, most domain adaptation methods are designed for classifications and cannot efficiently address regressions. A fuzzy-set-based joint distribution adaptation for regression method has been developed by the authors, tackling regression problems but being limited to single outputs. The novelty presented in this paper exploits clustering techniques to approach multi-output problems, adopting a modified multikernel maximum mean discrepancy to improve the domain discrepancy metric. The proposed method is applied to cracked lap shear specimens to assist debonding quantification. Several domain adaptations are investigated from simulations to experiments, and from one specimen to another, proving that the accuracy of damage quantification can be improved significantly in realistic environments. It is envisioned that the proposed approach could be integrated into fleet-level digital twins for nominally identical but heterogeneous systems.
 draft: false
 featured: true
