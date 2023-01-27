@@ -39,4 +39,4 @@ highlight_name: true
 ---
 北京航空航天大学航空科学与工程学院(导师：[董雷霆教授](https://shi.buaa.edu.cn/dongleiting))和米兰理工大学机械工程系(导师：[Prof. Claudio Sbarufatti](https://www.mecc.polimi.it/en/research/faculty/prof-claudio-sbarufatti))双学位博士生。研究兴趣包括结构完整性、机体数字孪生、结构健康监测和工程代理模型，学位论文研究获得北航博士生卓越学术基金资助。截至目前在AIAA Journal、Mechanical Systems and Signal Processing, 航空学报等国内外航空/机械领域权威期刊上发表了7篇论文，其中一作/通讯5篇。
 
- {{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "uploads/Curriculum_Vitae_Xuan Zhou_ZH.pdf" "newtab" >}}个人简历{{< /staticref >}}, 2023-01-27更新
+ {{< icon name="download" pack="fas" >}} 下载 {{< staticref "uploads/Curriculum_Vitae_Xuan Zhou_ZH.pdf" "newtab" >}}个人简历{{< /staticref >}}, 2023-01-27更新
