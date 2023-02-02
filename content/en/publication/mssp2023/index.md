@@ -34,5 +34,5 @@ image:
   preview_only: true
   caption: three types of damage domain adaptations (across different damage locations, across different damage types, and from simulation to experiment) are all conducted, proving the accuracy of damage quantification can be significantly improved in a realistic environment.
 summary: "A state-of-the-art online damage quantification framework based on domain adaptation is presented, and comprehensively demonstrated with a damaged helicopter panel."
-date: 2023-01-25
+date: 2023-05-15
 ---
