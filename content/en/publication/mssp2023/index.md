@@ -1,5 +1,9 @@
 ---
 title: A Fuzzy-set-based Joint Distribution Adaptation Method for Regression and its Application to Online Damage Quantification for Structural Digital Twin
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types:
   - "2"
 authors:
@@ -31,7 +35,7 @@ categories:
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   caption: three types of damage domain adaptations (across different damage locations, across different damage types, and from simulation to experiment) are all conducted, proving the accuracy of damage quantification can be significantly improved in a realistic environment.
 summary: "A state-of-the-art online damage quantification framework based on domain adaptation is presented, and comprehensively demonstrated with a damaged helicopter panel."
 date: 2023-02-02
