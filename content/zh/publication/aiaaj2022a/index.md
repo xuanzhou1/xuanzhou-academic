@@ -35,7 +35,7 @@ categories:
 image:
   filename: featured.svg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   caption: 在现实环境中，所提出的方法可以显著提高损伤量化的准确性
 summary: " 本文提出了一种新的领域适应方法，以协助诊断任务，基于来自类似结构或模拟的标记数据，然后应用于开裂的搭接剪切试样以协助脱粘定量。"
 date: 2022-11-28

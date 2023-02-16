@@ -32,7 +32,7 @@ categories:
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   caption: 基于所提出的裂纹检查策略得到的裂纹扩展检查结果
 summary: " 提出了一种基于数字孪生的智能裂纹检查策略，利用两个相连的概率过程，分别进行诊断/预后和计算检查间隔，根据数字孪生模型的更新，自适应地设置检查间隔。"
 date: 2023-01-15

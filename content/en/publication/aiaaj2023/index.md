@@ -32,7 +32,7 @@ categories:
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   caption: The inspections of the  crack growth history based on the proposed crack inspection strategy
 summary: "The proposed strategy utilizes two connected probabilistic processes, which conduct the diagnosis/prognosis and calculate the inspection intervals, respectively, to adaptively set the inspection intervals according to the updating of the digital twin model."
 date: 2023-01-15
