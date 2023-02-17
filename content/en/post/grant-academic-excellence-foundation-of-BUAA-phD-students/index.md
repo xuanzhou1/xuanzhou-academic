@@ -12,6 +12,7 @@ image:
 share: true
 commentable: true
 ---
-Xuan got a grant from the *Academic Excellence Foundation of BUAA for PhD Students*, under which he will carry on his dissertation research on "Digital twin-based individual aircraft tracking for unmanned aerial vehicles".
 
-The goal of the *Academic Excellence Foundation of BUAA for PhD Students* is to cultivate outstanding academic talents and stimulate the intrinsic motivation of PhD students to conduct innovative research, encourage and support senior outstanding PhD students to continue to explore the frontiers of their disciplines, conduct original, frontier and interdisciplinary research, and obtain high level academic achievement.
+Xuan has been awarded a grant from the *Academic Excellence Foundation of BUAA for PhD Students* to support his dissertation research on "Digital twin-based individual aircraft tracking for unmanned aerial vehicles".
+
+This award is designed to cultivate exceptional academic talent and inspire PhD students to engage in innovative research, as well as encourage senior outstanding PhD students to continue to explore the frontiers of their disciplines. The grant aims to provide support for conducting original, interdisciplinary research and achieving high levels of academic accomplishment.
