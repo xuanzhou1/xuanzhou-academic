@@ -1,5 +1,5 @@
 ---
-title: Setting Adaptive Inspection Intervals in Helicopter Components, Based on a Digital-Twin
+title: Setting Adaptive Inspection Intervals in Helicopter Components, Based on a Digital Twin
 publication_types:
   - "2"
 authors:
