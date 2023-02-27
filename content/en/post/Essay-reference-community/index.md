@@ -59,7 +59,7 @@ Upon querying 61,620 results from the Web of Science Core Collection, the featur
 
 ### Disciplines Distribution
 
-![Web of Science categories of the queried publications](001.png)
+![Web of Science categories of the queried publications](001.jpg)
 
 **Fig. 1 Web of Science categories of the queried publications.**
 
@@ -67,7 +67,7 @@ Fig. 1 revealed a diverse range of disciplines in the community, with mechanical
 
 ### Countries/Regions Distribution
 
-![Countries/regions of the queried publications](002.png)
+![Countries/regions of the queried publications](002.jpg)
 
 **Fig. 2 Countries/regions of the queried publications.**
 
@@ -75,7 +75,7 @@ The analysis of the countries/regions where my research community is located sho
 
 ### Institutions Distribution
 
-![Institutions of the queried publications](003.png)
+![Institutions of the queried publications](003.jpg)
 
 Fig. 3 Institutions of the queried publications
 
@@ -83,7 +83,7 @@ The analysis of the institutions in Fig. 3 suggest that my research community ha
 
 ### Publication Titles Distribution
 
-![Publication titles of the queried publications](004.png)
+![Publication titles of the queried publications](004.jpg)
 
 Fig. 4 Publication titles of the queried publications
 
@@ -91,7 +91,7 @@ Fig. 4 shows the top 25 publication titles of the publications in my research co
 
 ### Funding Agencies Distribution
 
-![The funding agencies of the queried publications](005.png)
+![The funding agencies of the queried publications](005.jpg)
 
 Fig. 5 The funding agencies of the queried publications
 
