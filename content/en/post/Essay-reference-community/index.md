@@ -134,9 +134,9 @@ Considering the countries/regions distribution of the readers as shown in Table 
 |**Country/Region**|**Count**|**Country/Region**|**Count**|
 | :-: | :-: | :-: | :-: |
 |China|101|Canada|5|
-|Italy|33|Taiwan|4|
+|Italy|33|Taiwan, China|4|
 |United States|15|United Kingdom|4|
-|Hong Kong|10|Germany|3|
+|Hong Kong, China|10|Germany|3|
 |Japan|8|Russia|3|
 |Singapore|7|Brazil|3|
 |India|7|France|3|
