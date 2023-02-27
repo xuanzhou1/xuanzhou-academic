@@ -1,7 +1,17 @@
-﻿**Analysis of My Reference Community: A Multi-scale Study**
+---
+title: Analysis of My Reference Community A Multi-scale Study
+date: 2023-02-27
+summary: This is an essay as the assignment of the course 056286 - INTRODUCTION TO ACADEMIC RESEARCH to provide a multi-scale insight of my research commnity.
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
 
-**An academic reference community comprises individuals who serve as vital sources of information, knowledge, and support for academic pursuits, playing an important role in the development of young researchers. As a fourth-year PhD student, with a greater level of research experience compare with most students in our course, I present a comprehensive analysis and description of my research community, based on my prior research and publications.  This essay is divided into three parts to provide a multi-scale insight. In the first part, my disciplines are classified based on the Criteria of the European Union, Italy, and China. Then the Web of Science platform is utilized to analyze the countries, institutions, and subjects of my research community, based on the keywords derived from my research experience. Finally, I analyze the reads, citations, following, and followers on online research websites, such as ResearchGate, to provide a more personalized view of my academic reference community. Through this examination, the essay aims to highlight the crucial role that my academic reference community plays in shaping my scholarly pursuits and professional development.**
-
+share: true
+commentable: true
+---
 # **Introduction to my research interests**
 
 I am currently a Ph.D. candidate at the Department of Mechanical Engineering in Politecnico di Milano and the School of Aeronautic Science and Engineering in Beihang University in the disciplines of Mechanical Engineering and Aeronautical Engineering, respectively. During my first two years at Beihang University, I concentrated on researching structural integrity and digital twin of aeronautical structures, which allowed me to explore the concept of digital twins and their relevance to aeronautical engineering. I was able to identify and implement innovative ways to use digital twins to enhance the overall structural integrity of aeronautical structures. In 2021, I decided to pursue a double Ph.D. degree in Politecnico di Milano. Here, my research was combined with the structural health monitoring (SHM), an essential aspect of ensuring aeronautical structures' safety and longevity. Machine learning also played a significant role in my research, particularly in the development of surrogate models for complex structural simulations. Throughout my research journey, I have published seven articles in mainstream peer-reviewed journals in aeronautical and mechanical engineering, which is also listed in the Appendix.
@@ -160,6 +170,7 @@ Secondly, the distribution of disciplines, countries, research institutions, pub
 Next, based on the readership data from the ResearchGate website over the past eight weeks, which I frequently use, I conducted an analysis of a smaller-scale research community. The overall data did not differ significantly from that of the Web of Science analysis, but the researchers in this community were more concentrated at Politecnico di Milano and Beihang University, which are my doctoral institutions.
 
 Finally, I would like to express my gratitude to Professor Paolo Volonté for his meticulous teaching, diverse classroom formats, and emphasis on interaction and discussion with students, which allowed me to experience a new learning atmosphere. This assignment also enabled me to better understand my research community and gain a clearer understanding of it. I am confident that the knowledge gained from this course, including the results of this assignment, will greatly benefit my future research career. 
+
 # **Appendix: My publication list**
 Zhao, F., **Zhou, X.\***,** Wang, C.,** Dong, L.\*, & Atluri, S. N. (2023), Setting Adaptive Inspection Intervals in Helicopter Components, Based on a Digital-Twin. **AIAA Journal**. <https://doi.org/10.2514/1.J062222> (Corresponding Author)
 **Zhou, X.**,** Sbarufatti, C.\*, Giglio, M.,** & Dong, L.\* (2023), A Fuzzy-set-based Joint Distribution Adaptation Method for Regression and its Application to Online Damage Quantification of a Structural Digital Twin. **Mechanical Systems and Signal Processing**, 191, 110164. [https://doi.org/10.1016/j.ymssp.2023.110164](https://doi.org/10.2514/1.J062417)
@@ -168,3 +179,4 @@ He, S., Wang, C., **Zhou, X.** **\***, Dong, L. \*, & Atluri, S. N. (2022). Weak
 **Zhou, X.**, He, S. \*, Dong, L., & Atluri, S. N. (2022). Real-Time Prediction of Probabilistic Crack Growth with a Helicopter Component Digital Twin. **AIAA Journal**, 60(4), 2555–2567. <https://doi.org/10.2514/1.J060890>
 Zhao, F., **Zhou, X.**, & Dong, L. (2021). An Intelligent Digital-Twin-Based Strategy for the Inspection and Repair of Aircraft Skin Cracks. **Chinese Journal of Solid Mechanics**, 42(03), 277–286. <https://doi.org/10.19636/j.cnki.cjsm42-1250/o3.2021.030> (in Chinese)
 Dong, L., **Zhou, X.**, Zhao, F., He, S., Lu, Z., & Feng, J. (2021). Key Technologies for Modeling and Simulation of Airframe Digital Twin. **Acta Aeronautica et Astronautica Sinica**, 42(03), 113-14<https://doi.org/10.7527/S1000-6893.2020.23981> (EI, in Chinese)
+
