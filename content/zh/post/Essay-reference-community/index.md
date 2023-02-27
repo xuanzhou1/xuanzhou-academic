@@ -53,7 +53,7 @@ ING-IND/14 Mechanical design and machine construction
 
 在查询了Web of Science核心库的61,620个结果后，利用 "分析结果 "的功能，深入了解了我的研究社区中的学科、国家/地区、机构和参与资助的机构。
 
-### Disciplines Distribution
+### 学科分布
 
 ![Web of Science categories of the queried publications](001.jpg)
 
