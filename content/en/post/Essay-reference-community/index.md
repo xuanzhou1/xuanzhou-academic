@@ -61,15 +61,15 @@ Upon querying 61,620 results from the Web of Science Core Collection, the featur
 
 ![Web of Science categories of the queried publications](001.jpg)
 
-**Fig. 1 Web of Science categories of the queried publications.**
+**Fig. 1 Web of Science Categories of the Queried Publications.**
 
-Fig. 1 revealed a diverse range of disciplines in the community, with mechanical engineering being the most dominant, followed by the materials science multidisciplinary, civil engineering, and mechanics. The aerospace engineering only ranks 13, which implies that it is relatively small compared to the previous disciplines. This finding highlights the fact that structural integrity and health monitoring issues apply to a wide range of engineering structures and are closely related to materials and mechanics, hence lending high credibility to this result. In light of these results, it is clear that I need to broaden my focus beyond the traditional disciplines to gain a comprehensive understanding of the field, by which I can explore new avenues of research and engage in interdisciplinary collaborations that could lead to significant breakthroughs.
+Fig. 1 revealed a diverse range of disciplines in the community, with mechanical engineering being the most dominant, followed by the material science - multidisciplinary, civil engineering, and mechanics. The aerospace engineering only ranks 13, which implies that it is relatively small compared to the previous disciplines. This finding highlights the fact that structural integrity and health monitoring issues apply to a wide range of engineering structures and are closely related to materials and mechanics, hence lending high credibility to this result. In light of these results, it is clear that I need to broaden my focus beyond the traditional disciplines to gain a comprehensive understanding of the field, by which I can explore new avenues of research and engage in interdisciplinary collaborations that could lead to significant breakthroughs.
 
 ### Countries/Regions Distribution
 
 ![Countries/regions of the queried publications](002.jpg)
 
-**Fig. 2 Countries/regions of the queried publications.**
+**Fig. 2 Top 20 Countries/Regions of the Queried Publications.**
 
 The analysis of the countries/regions where my research community is located shown in Fig. 2 revealed that the United States and China are the dominant players, with other countries such as the United Kingdom, Germany, and Italy lagging behind. It is worth noting that if we consider the major countries within the EU and aggregate their research output, the scale is comparable to that of China and the US. These findings suggest that current research in this field is still characterized by a three-legged situation, which is positively correlated with the economic status and degree of industrial development of these countries. In other words, the countries that have a higher degree of economic and industrial development tend to have a more substantial research output in the engineering field.
 
@@ -77,7 +77,7 @@ The analysis of the countries/regions where my research community is located sho
 
 ![Institutions of the queried publications](003.jpg)
 
-**Fig. 3 Institutions of the queried publications.**
+**Fig. 3 Top 25 Institutions of the Queried Publications.**
 
 The analysis of the institutions in Fig. 3 suggest that my research community has a strong presence in institutions located in the United States, with the University of California System and the United States Department of Energy DOE occupying the top two positions, which conformed with the results shown in Fig. 2. Other institutions that have a substantial presence in my research community include the Centre National de la Recherche Scientifique CNRS, the Indian Institute of Technology System IIT System, Dalian University of Technology, the United States Department of Defense, Hong Kong Polytechnic University.  Furthermore, Politecnico di Milano and Beihang University are ranked 17 and 21, respectively, indicating that they also enjoy a certain level of popularity within the research community.
 
@@ -85,7 +85,7 @@ The analysis of the institutions in Fig. 3 suggest that my research community ha
 
 ![Publication titles of the queried publications](004.jpg)
 
-**Fig. 4 Publication titles of the queried publications.**
+**Fig. 4 Top 25 Publication Titles of the Queried Publications.**
 
 Fig. 4 shows the top 25 publication titles of the publications in my research community. The most frequently occurring publication title is "Proceedings of SPIE". "International Journal of Fatigue" and "Mechanical Systems and Signal Processing" follow closely behind, respectively. Additionally, there are several conference proceedings listed, such as "AIP Conference Proceedings" and "Procedia Engineering" which suggests that my research community may be actively participating in academic conferences. The fact that my most frequently published journal, AIAA Journal, ranks only 23rd in the figure suggests that my research may be more visible to peers in the aerospace field, but may struggle to gain wider attention from the overall research community. On the other hand, a research output published in MSSP may have a higher potential for exposure.
 
@@ -93,7 +93,7 @@ Fig. 4 shows the top 25 publication titles of the publications in my research co
 
 ![The funding agencies of the queried publications](005.jpg)
 
-**Fig. 5 The funding agencies of the queried publications.**
+**Fig. 5 Top 25 Funding Agencies of the Queried Publications.**
 
 The source of funding for research in the engineering field is of utmost importance, given its close association with government policies and industrial development. As depicted in Fig. 5, the National Natural Science Foundation of China (NSFC) emerges as the primary funding agency for the research community, followed by the National Science Foundation (NSF) from the United States as the second largest contributor. Other significant funding agencies include the Fundamental Research Funds for the Central Universities, the European Commission, UK Research Innovation (UKRI), and the Engineering Physical Sciences Research Council (EPSRC).
 
@@ -107,7 +107,7 @@ In this section, a more personal aspect of my research community is investigated
 
 Table 1 presents the distribution of readers' disciplines over the last 8 weeks, showing that the largest group of readers is from mechanical engineering, aligning well with my area of expertise. The following two largest groups, aeronautical engineering and aerospace engineering, also correspond to my ongoing specialization. Additionally, a smaller but notable readership expresses interest in Artificial Neural Network and Artificial Intelligence, indicating an overlap between my work and the field of computer science. However, the number of readers interested in Manufacturing Engineering and Industrial Engineering is relatively low compared to other disciplines. This result is reasonable and expected, considering the focus of my research on the in-service phase of engineering structures.
 
-**Table 1 Disciplines of readers of my publications in the last 8 weeks.**
+**Table 1 Distribution of Publication Readership by Discipline in the Last Eight Weeks.**
 
 |**Discipline**|**Count**|
 | :-: | :-: |
@@ -129,7 +129,7 @@ Table 1 presents the distribution of readers' disciplines over the last 8 weeks,
 
 Considering the countries/regions distribution of the readers as shown in Table 2, China is the country with the largest number of readers, followed by Italy and the United States. This indicates that my research is of great interest to the Chinese research community, as well as to the Italian and American communities. Overall, my work seems to have a significant impact in China and the wider Asian region, with interest from several other parts of the world as well.
 
-**Table 2 Countries from which my publications was read in the last 8 weeks.**
+**Table 2 Distribution of Publication Readership by Country/Region in the Last Eight Weeks.**
 
 |**Country/Region**|**Count**|**Country/Region**|**Count**|
 | :-: | :-: | :-: | :-: |
@@ -145,7 +145,7 @@ Considering the countries/regions distribution of the readers as shown in Table 
 
 Table 3 presents the distribution of readership institutions over the past 8 weeks. The results reveal that Beihang University (BUAA), my host university, has recorded the highest number of readers, indicating significant interest in my research within the BUAA research community. Notably, Politecnico di Milano secured the third position, reflecting its stronger association with my list of followers. Additionally, various Chinese universities feature prominently among the top institutions in terms of the number of readers, highlighting the regard for my research in the Chinese research community. Overall, my work demonstrates global reach, with readership coming from diverse institutions across multiple countries.
 
-**Table 3 Institutions from which my publications was read in the last 8 weeks.**
+**Table 3 Distribution of Publication Readership by Institution in the Last Eight Weeks.**
 
 |**Institution**|**Count**|
 | :-: | :-: |
