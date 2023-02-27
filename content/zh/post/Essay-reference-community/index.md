@@ -14,7 +14,7 @@ commentable: true
 ---
 ## 研究兴趣介绍
 
-我目前是米兰理工大学机械工程系和北京航空航天大学航空科学与工程学院的博士生。在北京航空航天大学的前两年，我专注于研究航空结构的结构完整性和数字孪生，探索利用数字孪生技术来提高航空结构的结构完整性。2021年，我在米兰理工大学攻读双博士学位。在这里，我的研究与结构健康监测（SHM）相结合，这是确保航空结构安全和寿命的一个重要方面。机器学习在我的研究中也发挥了重要作用，特别是构建复杂结构仿真的代理模型。在我的研究历程中，我在航空和机械工程的主流同行评审期刊上发表了7篇文章，列在附录中。
+在北京航空航天大学的前两年，我专注于研究航空结构的结构完整性和数字孪生，探索利用数字孪生技术来提高航空结构的结构完整性。2021年，我在米兰理工大学攻读双博士学位。在这里，我的研究与结构健康监测（SHM）相结合，这是确保航空结构安全性的关键技术。机器学习在我的研究中也发挥了重要作用，特别是构建复杂结构仿真的代理模型。
 
 在下面的章节中，将通过欧盟、意大利和中国的学科分类标准、Web of Science平台和在线学术社交网站ResearchGate来分析我的研究社区。所确定的社区在范围上逐渐变小，从而提供了多种尺度的视角。
 
@@ -173,19 +173,3 @@ ING-IND/14 Mechanical design and machine construction
 接下来，根据我经常使用的ResearchGate网站过去八周的读者数据，我对一个更小规模的研究社区进行了分析。整体数据与Web of Science的分析没有明显差异，但这个社区的研究人员更多集中在米兰理工大学和北京航空航天大学。
 
 最后，我想对Paolo Volonté教授表示感谢，他一丝不苟的教学，多样化的课堂形式，强调与学生的互动和讨论，让我体验到了一种新的学习氛围。这项作业也使我能够更好地了解我的研究社区，对其有了更清晰的认识。我相信，从这门课程中获得的知识，包括这项作业的成果，将大大有利于我未来的研究事业。
-
-## 附录：论文列表
-
-Zhao, F., **Zhou, X.\***,Wang, C., Dong, L.\*, & Atluri, S. N. (2023), Setting Adaptive Inspection Intervals in Helicopter Components, Based on a Digital-Twin. **AIAA Journal**. <https://doi.org/10.2514/1.J062222> (Corresponding Author)
-
-**Zhou, X.**,Sbarufatti, C.\*, Giglio, M.,** & Dong, L.\* (2023), A Fuzzy-set-based Joint Distribution Adaptation Method for Regression and its Application to Online Damage Quantification of a Structural Digital Twin. **Mechanical Systems and Signal Processing**, 191, 110164. [https://doi.org/10.1016/j.ymssp.2023.110164](https://doi.org/10.2514/1.J062417)
-
-**Zhou, X.**,Oboe, D., Poloni, D., Sbarufatti, C.\*, & Dong, L.\*, Giglio, M. (2023).**Cluster-based Joint Distribution Adaptation Method for Debonding Quantification in Composite Structures.**AIAA Journal**, 61(2), 831–842. <https://doi.org/10.2514/1.J062417>
-
-He, S., Wang, C.,**Zhou, X.\***, Dong, L. \*, & Atluri, S. N. (2022). Weakly Singular Symmetric Galerkin Boundary Element Method for Fracture Analysis of Three-Dimensional Structures Considering Rotational Inertia and Gravitational Forces.**Computer Modeling in Engineering & Sciences**, 131(3), 1857–1882. <https://doi.org/10.32604/cmes.2022.019160> (Corresponding Author)
-
-**Zhou, X.**, He, S. \*, Dong, L., & Atluri, S. N. (2022). Real-Time Prediction of Probabilistic Crack Growth with a Helicopter Component Digital Twin.**AIAA Journal**, 60(4), 2555–2567. <https://doi.org/10.2514/1.J060890>
-
-Zhao, F.,**Zhou, X.**, & Dong, L. (2021). An Intelligent Digital-Twin-Based Strategy for the Inspection and Repair of Aircraft Skin Cracks.**Chinese Journal of Solid Mechanics**, 42(03), 277–286. <https://doi.org/10.19636/j.cnki.cjsm42-1250/o3.2021.030> (in Chinese)
-
-Dong, L.,**Zhou, X.**, Zhao, F., He, S., Lu, Z., & Feng, J. (2021). Key Technologies for Modeling and Simulation of Airframe Digital Twin.**Acta Aeronautica et Astronautica Sinica**, 42(03), 113-14<https://doi.org/10.7527/S1000-6893.2020.23981> (EI, in Chinese)
