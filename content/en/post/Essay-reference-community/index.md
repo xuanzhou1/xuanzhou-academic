@@ -149,13 +149,13 @@ Table 3 presents the distribution of readership institutions over the past 8 wee
 
 |**Institution**|**Count**|
 | :-: | :-: |
-|Beihang University (BUAA), China |101|
-|Northeastern University, China|33|
-|Politecnico di Mlano, Italy|15|
-|Dalian University of Technology, China|10|
-|Huazhong University of Science and Technology, China|8|
-|Sao Paulo State University, Brazil|7|
-|Dalian Maritime University, China|7|
+|Beihang University (BUAA), China |39|
+|Northeastern University, China|12|
+|Politecnico di Mlano, Italy|9|
+|Dalian University of Technology, China|9|
+|Huazhong University of Science and Technology, China|7|
+|Sao Paulo State University, Brazil|5|
+|Dalian Maritime University, China|4|
 |Peter the Great St. Petersburg Polytechnic University, Russia|3|
 |RWTH Aachen University, Germany|2|
 |University of Montenegro, Montenegro|2|
