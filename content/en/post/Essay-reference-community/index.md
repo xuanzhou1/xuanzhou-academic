@@ -18,7 +18,7 @@ I am currently a Ph.D. candidate at the Department of Mechanical Engineering in 
 
 In the following sections, my research community are analyzed through the Classification Criteria of Several Countries, the web of science platform and the ResearchGate, a well-known online academic website. The identified communities become progressively smaller in scope, thus providing multiple scales of perspective.
 
-## **Identify My Reference Community by the Classification Criteria of Several Countries.**
+## Identify My Reference Community by the Classification Criteria of Several Countries.
 
 ### ERC (2020)
 
@@ -77,7 +77,7 @@ The analysis of the countries/regions where my research community is located sho
 
 ![Institutions of the queried publications](003.jpg)
 
-Fig. 3 Institutions of the queried publications
+**Fig. 3 Institutions of the queried publications.**
 
 The analysis of the institutions in Fig. 3 suggest that my research community has a strong presence in institutions located in the United States, with the University of California System and the United States Department of Energy DOE occupying the top two positions, which conformed with the results shown in Fig. 2. Other institutions that have a substantial presence in my research community include the Centre National de la Recherche Scientifique CNRS, the Indian Institute of Technology System IIT System, Dalian University of Technology, the United States Department of Defense, Hong Kong Polytechnic University.  Furthermore, Politecnico di Milano and Beihang University are ranked 17 and 21, respectively, indicating that they also enjoy a certain level of popularity within the research community.
 
@@ -85,7 +85,7 @@ The analysis of the institutions in Fig. 3 suggest that my research community ha
 
 ![Publication titles of the queried publications](004.jpg)
 
-Fig. 4 Publication titles of the queried publications
+**Fig. 4 Publication titles of the queried publications.**
 
 Fig. 4 shows the top 25 publication titles of the publications in my research community. The most frequently occurring publication title is "Proceedings of SPIE". "International Journal of Fatigue" and "Mechanical Systems and Signal Processing" follow closely behind, respectively. Additionally, there are several conference proceedings listed, such as "AIP Conference Proceedings" and "Procedia Engineering" which suggests that my research community may be actively participating in academic conferences. The fact that my most frequently published journal, AIAA Journal, ranks only 23rd in the figure suggests that my research may be more visible to peers in the aerospace field, but may struggle to gain wider attention from the overall research community. On the other hand, a research output published in MSSP may have a higher potential for exposure.
 
@@ -93,7 +93,7 @@ Fig. 4 shows the top 25 publication titles of the publications in my research co
 
 ![The funding agencies of the queried publications](005.jpg)
 
-Fig. 5 The funding agencies of the queried publications
+**Fig. 5 The funding agencies of the queried publications.**
 
 The source of funding for research in the engineering field is of utmost importance, given its close association with government policies and industrial development. As depicted in Fig. 5, the National Natural Science Foundation of China (NSFC) emerges as the primary funding agency for the research community, followed by the National Science Foundation (NSF) from the United States as the second largest contributor. Other significant funding agencies include the Fundamental Research Funds for the Central Universities, the European Commission, UK Research Innovation (UKRI), and the Engineering Physical Sciences Research Council (EPSRC).
 
@@ -107,7 +107,7 @@ In this section, a more personal aspect of my research community is investigated
 
 Table 1 presents the distribution of readers' disciplines over the last 8 weeks, showing that the largest group of readers is from mechanical engineering, aligning well with my area of expertise. The following two largest groups, aeronautical engineering and aerospace engineering, also correspond to my ongoing specialization. Additionally, a smaller but notable readership expresses interest in Artificial Neural Network and Artificial Intelligence, indicating an overlap between my work and the field of computer science. However, the number of readers interested in Manufacturing Engineering and Industrial Engineering is relatively low compared to other disciplines. This result is reasonable and expected, considering the focus of my research on the in-service phase of engineering structures.
 
-Table 1 Disciplines of readers of my publications in the last 8 weeks
+**Table 1 Disciplines of readers of my publications in the last 8 weeks.**
 
 |**Discipline**|**Count**|
 | :-: | :-: |
@@ -129,7 +129,7 @@ Table 1 Disciplines of readers of my publications in the last 8 weeks
 
 Considering the countries/regions distribution of the readers as shown in Table 2, China is the country with the largest number of readers, followed by Italy and the United States. This indicates that my research is of great interest to the Chinese research community, as well as to the Italian and American communities. Overall, my work seems to have a significant impact in China and the wider Asian region, with interest from several other parts of the world as well.
 
-Table 2 Countries from which my publications was read in the last 8 weeks
+**Table 2 Countries from which my publications was read in the last 8 weeks.**
 
 |**Country/Region**|**Count**|**Country/Region**|**Count**|
 | :-: | :-: | :-: | :-: |
@@ -145,7 +145,7 @@ Table 2 Countries from which my publications was read in the last 8 weeks
 
 Table 3 presents the distribution of readership institutions over the past 8 weeks. The results reveal that Beihang University (BUAA), my host university, has recorded the highest number of readers, indicating significant interest in my research within the BUAA research community. Notably, Politecnico di Milano secured the third position, reflecting its stronger association with my list of followers. Additionally, various Chinese universities feature prominently among the top institutions in terms of the number of readers, highlighting the regard for my research in the Chinese research community. Overall, my work demonstrates global reach, with readership coming from diverse institutions across multiple countries.
 
-Table 3 Institutions from which my publications was read in the last 8 weeks
+**Table 3 Institutions from which my publications was read in the last 8 weeks.**
 
 |**Institution**|**Count**|
 | :-: | :-: |
@@ -180,10 +180,16 @@ Finally, I would like to express my gratitude to Professor Paolo Volonté for hi
 
 ## Appendix: My publication list
 
-Zhao, F., **Zhou, X.\***,**Wang, C.,** Dong, L.\*, & Atluri, S. N. (2023), Setting Adaptive Inspection Intervals in Helicopter Components, Based on a Digital-Twin. **AIAA Journal**. <https://doi.org/10.2514/1.J062222> (Corresponding Author)
-**Zhou, X.**,**Sbarufatti, C.\*, Giglio, M.,** & Dong, L.\* (2023), A Fuzzy-set-based Joint Distribution Adaptation Method for Regression and its Application to Online Damage Quantification of a Structural Digital Twin. **Mechanical Systems and Signal Processing**, 191, 110164. [https://doi.org/10.1016/j.ymssp.2023.110164](https://doi.org/10.2514/1.J062417)
-**Zhou, X.**,**Oboe, D., Poloni, D., Sbarufatti, C.\*,** & Dong, L.\*, Giglio, M. (2023).**Cluster-based Joint Distribution Adaptation Method for Debonding Quantification in Composite Structures.**AIAA Journal**, 61(2), 831–842. <https://doi.org/10.2514/1.J062417>
-He, S., Wang, C.,**Zhou, X.****\***, Dong, L. \*, & Atluri, S. N. (2022). Weakly Singular Symmetric Galerkin Boundary Element Method for Fracture Analysis of Three-Dimensional Structures Considering Rotational Inertia and Gravitational Forces.**Computer Modeling in Engineering & Sciences**, 131(3), 1857–1882. <https://doi.org/10.32604/cmes.2022.019160> (Corresponding Author)
+Zhao, F., **Zhou, X.\***,Wang, C., Dong, L.\*, & Atluri, S. N. (2023), Setting Adaptive Inspection Intervals in Helicopter Components, Based on a Digital-Twin. **AIAA Journal**. <https://doi.org/10.2514/1.J062222> (Corresponding Author)
+
+**Zhou, X.**,Sbarufatti, C.\*, Giglio, M., & Dong, L.\* (2023), A Fuzzy-set-based Joint Distribution Adaptation Method for Regression and its Application to Online Damage Quantification of a Structural Digital Twin. **Mechanical Systems and Signal Processing**, 191, 110164. [https://doi.org/10.1016/j.ymssp.2023.110164](https://doi.org/10.2514/1.J062417)
+
+**Zhou, X.**,Oboe, D., Poloni, D., Sbarufatti, C.\*, & Dong, L.\*, Giglio, M. (2023).**Cluster-based Joint Distribution Adaptation Method for Debonding Quantification in Composite Structures.**AIAA Journal**, 61(2), 831–842. <https://doi.org/10.2514/1.J062417>
+
+He, S., Wang, C.,**Zhou, X.\***, Dong, L. \*, & Atluri, S. N. (2022). Weakly Singular Symmetric Galerkin Boundary Element Method for Fracture Analysis of Three-Dimensional Structures Considering Rotational Inertia and Gravitational Forces.**Computer Modeling in Engineering & Sciences**, 131(3), 1857–1882. <https://doi.org/10.32604/cmes.2022.019160> (Corresponding Author)
+
 **Zhou, X.**, He, S. \*, Dong, L., & Atluri, S. N. (2022). Real-Time Prediction of Probabilistic Crack Growth with a Helicopter Component Digital Twin.**AIAA Journal**, 60(4), 2555–2567. <https://doi.org/10.2514/1.J060890>
+
 Zhao, F.,**Zhou, X.**, & Dong, L. (2021). An Intelligent Digital-Twin-Based Strategy for the Inspection and Repair of Aircraft Skin Cracks.**Chinese Journal of Solid Mechanics**, 42(03), 277–286. <https://doi.org/10.19636/j.cnki.cjsm42-1250/o3.2021.030> (in Chinese)
+
 Dong, L.,**Zhou, X.**, Zhao, F., He, S., Lu, Z., & Feng, J. (2021). Key Technologies for Modeling and Simulation of Airframe Digital Twin.**Acta Aeronautica et Astronautica Sinica**, 42(03), 113-14<https://doi.org/10.7527/S1000-6893.2020.23981> (EI, in Chinese)
