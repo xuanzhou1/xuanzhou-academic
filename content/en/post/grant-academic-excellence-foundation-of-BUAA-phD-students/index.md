@@ -3,7 +3,7 @@ title: Xuan got a grant from the Academic Excellence Foundation of BUAA for PhD 
 date: 2022-05-17
 summary: Xuan has been awarded a grant from the Academic Excellence Foundation of BUAA for PhD Students to support his dissertation research.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
