@@ -1,5 +1,5 @@
 ---
-title: 多尺度视角下我的研究社区分析
+title: 课程大作业-研究社区的多尺度视角分析
 date: 2023-02-27
 summary: 这是公共课056286 - INTRODUCTION TO ACADEMIC RESEARCH的大作业，从多个尺度分析我的研究社区，分享仅供参考。
 draft: false
