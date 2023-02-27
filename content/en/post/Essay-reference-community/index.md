@@ -3,7 +3,7 @@ title: Analysis of My Reference Community A Multi-scale Study
 date: 2023-02-27
 summary: This is an essay as the assignment of the course 056286 - INTRODUCTION TO ACADEMIC RESEARCH to provide a multi-scale insight of my research commnity.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
