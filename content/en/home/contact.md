@@ -22,7 +22,7 @@ content:
     country: Italy
     country_code: ITA
     
-  email: xuan1.zhou@mail.polimi.it
+  email: xuan.zhou@polimi.it
 
 design:
   columns: "2"
