@@ -9,7 +9,7 @@ authors:
   - Leiting Dong
   - Satya N. Atluri
 author_notes:
-  - Polytechnic University of Milan and Beihang University
+  - Beihang University and Polytechnic University of Milan
   - Polytechnic University of Milan, Co-corresponding Author
   - Polytechnic University of Milan
   - Beihang University, Corresponding Author
