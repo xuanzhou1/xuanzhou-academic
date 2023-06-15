@@ -5,8 +5,8 @@ publication_types:
 authors:
   - Xuan Zhou
   - Claudio Sbarufatti
-  - Leiting Dong
   - Marco Giglio
+  - Leiting Dong
   - Satya N. Atluri
 author_notes:
   - Polytechnic University of Milan and Beihang University

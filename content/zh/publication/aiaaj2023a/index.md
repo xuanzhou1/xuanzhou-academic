@@ -3,10 +3,10 @@ title: Copula-Based Collaborative Multistructure Damage Diagnosis and Prognosis 
 publication_types:
   - "2"
 authors:
-  - Xuan Zhou
+  - 周轩
   - Claudio Sbarufatti
-  - Leiting Dong
   - Marco Giglio
+  - 董雷霆
   - Satya N. Atluri
 author_notes:
   - 米兰理工大学和北京航空航天大学
