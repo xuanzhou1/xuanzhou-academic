@@ -37,6 +37,6 @@ email: zhoux@buaa.edu.cn
 superuser: true
 highlight_name: true
 ---
-目前为北京航空航天大学航空科学与工程学院(导师：[董雷霆教授](https://shi.buaa.edu.cn/dongleiting))和米兰理工大学机械工程系(导师：[Prof. Claudio Sbarufatti](https://www.mecc.polimi.it/en/research/faculty/prof-claudio-sbarufatti))双学位博士研究生。于2017年获北京航空航天大学飞行器设计与工程学士学位。研究兴趣包括结构完整性与数字孪生、结构健康监测以及代理/降阶建模，以第一/通讯作者身份在AIAA Journal（4篇）、Mechanical Systems and Signal Processing等航空/机械领域权威期刊发表6篇SCI论文。2022年获北航博士生卓越学术基金项目资助，2023年获ICCES最佳学生论文奖。
+目前为北京航空航天大学航空科学与工程学院(导师：[董雷霆教授](https://shi.buaa.edu.cn/dongleiting))和米兰理工大学机械工程系(导师：[Prof. Claudio Sbarufatti](https://www.mecc.polimi.it/en/research/faculty/prof-claudio-sbarufatti))双学位博士研究生。于2017年获北京航空航天大学飞行器设计与工程学士学位。研究兴趣包括结构完整性与数字孪生、结构健康监测以及代理/降阶建模，共发表论文11篇，其中以第一/通讯作者身份在AIAA Journal（4篇）、Mechanical Systems and Signal Processing等航空/机械领域权威期刊发表6篇SCI论文。2022年获北航博士生卓越学术基金项目资助，2023年获ICCES最佳学生论文奖。
 
  {{< icon name="download" pack="fas" >}} 下载 {{< staticref "uploads/Curriculum_Vitae_XuanZhou_ZH.pdf" "newtab" >}}个人简历{{< /staticref >}}, 2023-05-20更新
