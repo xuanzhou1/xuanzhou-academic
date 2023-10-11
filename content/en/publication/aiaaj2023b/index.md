@@ -17,12 +17,12 @@ author_notes:
   - Beihang University, Corresponding Author
   - Texas Tech University
 
-doi: 10.2514/1.J063105
+doi: 10.2514/1.J062959
 publication: AIAA Journal
 publication_short: AIAAJ
 abstract: Nonplanar crack growth holds a critical role in aeronautical structures, necessitating effective analysis under mixed fatigue loading to assess structural integrity. This study introduces a reduced-order modeling (ROM) method for predicting nonplanar crack growth in structural digital twins. The method's advantage lies in its representation of the entire crack surface morphology using a B-spline surface, which better captures its impact on crack growth. The symmetric Galerkin boundary element method - finite element method coupling method is adopted as a full-order method to generate the crack database. Isoparametric coordinates of the crack surface and stress intensity factor serve as input and output, respectively, for training the ROM, which integrates K-mean clustering, principal component analysis, and Gaussian process regression. The proposed approach is demonstrated using a rotorcraft mast-like component. Results reveal superior fracture mechanics parameter prediction compared to the crack-front-based ROM. Furthermore, the method boasts three orders of magnitude greater efficiency than full-order simulation, enabling its coupling with approaches like Monte Carlo for probabilistic crack growth analysis. Future work entails integrating our method into the probabilistic framework of digital twins.
 draft: false
-featured: true
+featured: false
 tags:
   - Digital Twin
   - Model Reduction
