@@ -1,6 +1,6 @@
 ---
 title: 周轩
-role: 博士研究生
+role: 博士后
 avatar_filename: avatar.jpg
 bio: 我的研究方向主要包括结构完整性与数字孪生，结构健康监测与机器学习的工程应用
 interests:
@@ -33,10 +33,13 @@ education:
     - course: 学士，飞行器设计与工程
       institution: 北京航空航天大学
       year: 2017
+    - course: 工学博士，航空宇航科学与技术
+      institution: 北京航空航天大学
+      year: 2024
 email: zhoux@buaa.edu.cn
 superuser: true
 highlight_name: true
 ---
-目前为北京航空航天大学航空科学与工程学院(导师：[董雷霆教授](https://shi.buaa.edu.cn/dongleiting))和米兰理工大学机械工程系(导师：[Prof. Claudio Sbarufatti](https://www.mecc.polimi.it/en/research/faculty/prof-claudio-sbarufatti))双学位博士研究生。于2017年获北京航空航天大学飞行器设计与工程学士学位。研究兴趣包括结构完整性与数字孪生、结构健康监测以及代理/降阶建模，共发表论文12篇，其中以第一/通讯作者身份在AIAA Journal（5篇）、Mechanical Systems and Signal Processing等航空/机械领域权威期刊发表7篇SCI论文。2022年获北航博士生卓越学术基金项目资助，2023年获ICCES最佳学生论文奖。
+目前为北京航空航天大学航空科学与工程学院卓越百人博士后，和米兰理工大学机械工程系(导师：[Prof. Claudio Sbarufatti](https://www.mecc.polimi.it/en/research/faculty/prof-claudio-sbarufatti))双学位博士研究生。于2017年获北京航空航天大学飞行器设计与工程学士学位，2024年获得北航航空宇航科学与技术工学博士学位（导师：[董雷霆教授](https://shi.buaa.edu.cn/dongleiting)）。研究兴趣包括结构完整性与数字孪生、结构健康监测以及代理/降阶建模，共发表论文12篇，其中以第一/通讯作者身份在AIAA Journal（5篇）、Mechanical Systems and Signal Processing等航空/机械领域权威期刊发表7篇SCI论文。2022年获北航博士生卓越学术基金项目资助，2023年获ICCES最佳学生论文奖。
 
  {{< icon name="download" pack="fas" >}} 下载 {{< staticref "uploads/Curriculum_Vitae_XuanZhou_ZH.pdf" "newtab" >}}个人简历{{< /staticref >}}, 2023-05-20更新

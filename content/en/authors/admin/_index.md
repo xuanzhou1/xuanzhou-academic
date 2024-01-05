@@ -1,6 +1,6 @@
 ---
 title: Xuan Zhou
-role: Ph.D. Candidate
+role: Postdoctoral Fellow
 avatar_filename: avatar.jpg
 bio: My research interests include airframe digital twin, structural health monitoring, machine learning in engineering.
 interests:
@@ -33,10 +33,14 @@ education:
     - course: BSc in Aircraft Design and Engineering
       institution: Beihang University
       year: 2017
+  courses:
+    - course: Ph.D. in Aeronautical Engineering
+      institution: Beihang University
+      year: 2024
 email: zhoux@buaa.edu.cn
 superuser: true
 highlight_name: true
 ---
-Xuan Zhou is currently a Ph.D. candidate at the School of Aeronautic Science and Engineering, Beihang University (Supervisor: [Prof. Leiting Dong](https://shi.buaa.edu.cn/dongleiting/en/index.htm)) and the Department of Mechanical Engineering, Politecnico di Milano (Supervisor: [Prof. Claudio Sbarufatti](https://www.mecc.polimi.it/en/research/faculty/prof-claudio-sbarufatti)). His research interests include structural integrity, airframe digital twins, structural health monitoring, and surrogate modeling. He has published 9 articles in the mainstream peer-reviewed journals in aeronautical and mechanical engineering, including the AIAAJ, MSSP .etc. He won the ICCES2023 Best Student Paper Award.
+Xuan Zhou is currently the Zhuoyue Postdoctoral Fellow at the School of Aeronautic Science and Engineering, Beihang University, and a Ph.D. candidate at the Department of Mechanical Engineering, Politecnico di Milano (Supervisor: [Prof. Claudio Sbarufatti](https://www.mecc.polimi.it/en/research/faculty/prof-claudio-sbarufatti)). He obtained the Ph.D. degree at Beihang University in January 2024 (Supervisor: [Prof. Leiting Dong](https://shi.buaa.edu.cn/dongleiting/en/index.htm)). His research interests include structural integrity, airframe digital twins, structural health monitoring, and surrogate modeling. He has published 9 articles in mainstream peer-reviewed journals in aeronautical and mechanical engineering, including the AIAAJ, MSSP .etc. He won the ICCES 2023 Best Student Paper Award.
 
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Curriculum_Vitae_XuanZhou_EN.pdf" "newtab" >}}resumé{{< /staticref >}}, updated 2023-05-20
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Curriculum_Vitae_XuanZhou_EN.pdf" "newtab" >}}resumé{{< /staticref >}}, updated 2024-01-06
