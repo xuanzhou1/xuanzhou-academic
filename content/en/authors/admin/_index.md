@@ -1,3 +1,13 @@
+<!--
+ * @Description: 
+ * @version: 
+ * @Author: Xuan Zhou
+ * @Mail: zhoux@buaa.edu.cn
+ * @Date: 2024-04-20 10:48:27
+ * @LastEditors: Xuan Zhou
+ * @LastEditTime: 2024-04-20 10:52:29
+ * @history versions: 
+-->
 ---
 title: Xuan Zhou
 role: Postdoctoral Fellow
@@ -41,6 +51,6 @@ email: zhoux@buaa.edu.cn
 superuser: true
 highlight_name: true
 ---
-Xuan Zhou is currently the Zhuoyue Postdoctoral Fellow at the School of Aeronautic Science and Engineering, Beihang University, and a Ph.D. candidate at the Department of Mechanical Engineering, Politecnico di Milano (Supervisor: [Prof. Claudio Sbarufatti](https://www.mecc.polimi.it/en/research/faculty/prof-claudio-sbarufatti)). He obtained the Ph.D. degree at Beihang University in January 2024 (Supervisor: [Prof. Leiting Dong](https://shi.buaa.edu.cn/dongleiting/en/index.htm)). His research interests include structural integrity, airframe digital twins, structural health monitoring, and surrogate modeling. He has published 9 articles in mainstream peer-reviewed journals in aeronautical and mechanical engineering, including the AIAAJ, MSSP .etc. He won the ICCES 2023 Best Student Paper Award.
+Xuan Zhou is currently the Zhuoyue Postdoctoral Fellow at the School of Aeronautic Science and Engineering, Beihang University. He obtained the Ph.D. degree at Beihang University (Supervisor: [Prof. Leiting Dong](https://shi.buaa.edu.cn/dongleiting/en/index.htm)) and Politecnico di Milano (Supervisor: [Prof. Claudio Sbarufatti](https://www.mecc.polimi.it/en/research/faculty/prof-claudio-sbarufatti)) in 2024. His research interests include structural integrity, airframe digital twins, structural health monitoring, and surrogate modeling. He has published 9 articles in mainstream peer-reviewed journals in aeronautical and mechanical engineering, including the AIAAJ (5), MSSP .etc. He won the ICCES 2023 Best Student Paper Award.
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Curriculum_Vitae_XuanZhou_EN.pdf" "newtab" >}}resumé{{< /staticref >}}, updated 2024-01-06
