@@ -2,8 +2,8 @@
 title: Xuan Zhou
 role: Postdoctoral Fellow
 avatar_filename: avatar.jpg
-bio: My eserch interests include airframe digital twin, structural health monitoring, machine learning in engineering.
-interests:
+bio: My research interests include airframe digital twin, structural health monitoring, machine learning in engineering.
+interests
   - Structural Integrity and Airframe Digital Twin
   - Structural Health Monitoring
   - Surrogate Modelling and Machine Learning in Engineering
