@@ -1,18 +1,8 @@
-<!--
- * @Description: 
- * @version: 
- * @Author: Xuan Zhou
- * @Mail: zhoux@buaa.edu.cn
- * @Date: 2024-04-20 10:48:27
- * @LastEditors: Xuan Zhou
- * @LastEditTime: 2024-04-20 10:52:29
- * @history versions: 
--->
 ---
 title: Xuan Zhou
 role: Postdoctoral Fellow
 avatar_filename: avatar.jpg
-bio: My research interests include airframe digital twin, structural health monitoring, machine learning in engineering.
+bio: My eserch interests include airframe digital twin, structural health monitoring, machine learning in engineering.
 interests:
   - Structural Integrity and Airframe Digital Twin
   - Structural Health Monitoring
@@ -46,6 +36,10 @@ education:
   courses:
     - course: Ph.D. in Aeronautical Engineering
       institution: Beihang University
+      year: 2024
+  courses:
+    - course: Ph.D. in Mechanical Engineering
+      institution: Politecnico di Milano
       year: 2024
 email: zhoux@buaa.edu.cn
 superuser: true
