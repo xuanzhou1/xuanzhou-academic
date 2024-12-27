@@ -1,13 +1,3 @@
-<!--
- * @Description: 
- * @version: 
- * @Author: Xuan Zhou
- * @Mail: zhoux@buaa.edu.cn
- * @Date: 2024-12-22 20:00:09
- * @LastEditors: Xuan Zhou
- * @LastEditTime: 2024-12-27 19:52:00
- * @history versions: 
--->
 ---
 title: Variational Neural Network Embedded with Digital Twins for Probabilistic Structural Damage Quantification
 publication_types:
