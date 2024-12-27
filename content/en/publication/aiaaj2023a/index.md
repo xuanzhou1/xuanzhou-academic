@@ -36,5 +36,5 @@ image:
   preview_only: false
   caption: The damage state of uninspected individuals can also be updated by the inspection of other individuals and the coupling of Copula functions.
 summary: "The proposed approach improves prediction accuracy compared to traditional individual-based methods and effectively controls uncertainties for each structure, even during intervals of no observations."
-date: 2023-06-15
+date: 2023-10-01
 ---

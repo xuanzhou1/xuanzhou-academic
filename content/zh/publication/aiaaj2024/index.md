@@ -1,42 +1,42 @@
 ---
-title: Variational Neural Network Embedded with Digital Twins for Probabilistic Structural Damage Quantification
+title: B-Spline Surface-Based Reduced-Order Modeling of Nonplanar Crack Growth in Structural Digital Twins
 publication_types:
   - "2"
 authors:
-  - 许家祺
+  - 赵福斌
   - 周轩
-  - Claudio Sbarufatti
-  - Marco Giglio
+  - 贺双新
+  - 汪朝阳
   - 董雷霆
-
+  - Staya N Atluri
 author_notes:
   - 北京航空航天大学
   - 北京航空航天大学，通讯作者
-  - 米兰理工大学，意大利
-  - 米兰理工大学，意大利
+  - 北京航空航天大学
+  - 北京航空航天大学
   - 北京航空航天大学，通讯作者
+  - 德州理工大学，美国
 
-doi: 10.2514/1.J064808
+doi: 10.2514/1.J062959
 publication: AIAA Journal
 publication_short: AIAA J
-abstract: 利用在线监测数据量化结构损伤对于基于状态的维护以确保航空安全至关重要。 然而，大多数数据驱动的方法很少利用已有的领域知识，难以考虑不同结构因制造而产生的参数变化对损伤量化的影响，也影响了结果的可解释性。 为应对这些挑战，本研究提出了一种用于结构损伤量化和模型参数校准的物理解码变分神经网络。该方法的创新之处在于将包含损伤状态和影响参数的降阶数字孪生作为解码器无缝集成到变分神经网络中，并利用变分推理训练数据驱动的物理特征提取模型。 这种结构可在考虑不确定性的情况下对整个机队进行个性化的实时结构损伤量化和参数校准。在典型含损伤航空壁板结构上的验证表明，所提出的方法能准确预测结构损伤状态并量化相关的不确定性，从而确保较高的可解释性和准确性。 这种方法有望集成到机体数字孪生框架中，从而在整个机队中实现基于状态的维护。
+abstract: 非平面裂纹扩展在航空结构中起着关键作用，需要在混合疲劳受载下进行有效分析，以评估结构的完整性。本研究引入了一种用于预测结构数字孪生中非平面裂纹扩展的降阶建模（ROM）方法。该方法的优势在于使用B样条曲面来表示整个裂纹表面形态，更好地捕捉了其对裂纹扩展的影响。采用对称Galerkin边界元法 - 有限元法耦合方法作为全阶方法来生成裂纹数据库。裂纹表面的等参坐标和应力强度因子分别用于ROM的训练输入和输出，该过程集成了K均值聚类、主成分分析和高斯过程回归。提出的方法使用类似旋翼轴的部件进行了演示。结果显示与基于裂纹前沿的ROM相比，其具有优异的断裂力学参数预测能力。此外，该方法的效率比全阶仿真高出三个数量级，使其能够与蒙特卡洛等方法耦合，用于概率裂纹扩展分析。未来工作包括将我们的方法集成到数字孪生的概率框架中。
 draft: false
 featured: false
 tags:
   - 数字孪生
   - 模型降阶
-  - 损伤量化
-  - 结构健康监测
-  - 机器学习
-  - 数据驱动
+  - 非平面裂纹
+  - B样条曲面
+  - 疲劳裂纹扩展
 categories:
   - 数字孪生
-  - 结构健康监测
+  - 模型降阶
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: The development of the proposed PDVNN and its application to structural damage quantification.
-summary: "本研究通过将将包含损伤状态和影响参数的降阶数字孪生作为解码器无缝集成到变分神经网络中，可在考虑不确定性的情况下对整个机队进行个性化的实时结构损伤量化和参数校准。"
-date: 2024-12-17
+  caption: The damage state of uninspected individuals can also be updated by the inspection of other individuals and the coupling of Copula functions.
+summary: "本研究引入了一种用于预测结构数字孪生中非平面裂纹扩展的降阶建模方法。该方法的优势在于使用B样条曲面来表示整个裂纹表面形态，更好地捕捉了其对裂纹扩展的影响。"
+date: 2024-01-01
 ---
