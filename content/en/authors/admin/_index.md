@@ -1,3 +1,13 @@
+<!--
+ * @Description: 
+ * @version: 
+ * @Author: Xuan Zhou
+ * @Mail: zhoux@buaa.edu.cn
+ * @Date: 2024-04-20 10:48:27
+ * @LastEditors: Xuan Zhou
+ * @LastEditTime: 2025-10-27 17:07:53
+ * @history versions: 
+-->
 ---
 title: Xuan Zhou
 role: Assistant Professor
@@ -44,6 +54,6 @@ email: zhoux@buaa.edu.cn
 superuser: true
 highlight_name: true
 ---
-Xuan Zhou is currently an Assistant Professor at the School of Aeronautic Science and Engineering, Beihang University. He obtained the Ph.D. degree at Beihang University (Supervisor: [Prof. Leiting Dong](https://shi.buaa.edu.cn/dongleiting/en/index.htm)) and Politecnico di Milano (Supervisor: [Prof. Claudio Sbarufatti](https://www.mecc.polimi.it/en/research/faculty/prof-claudio-sbarufatti)) in 2024. His research interests include structural integrity, airframe digital twins, structural health monitoring, and surrogate modeling. His research is supported by grants from the National Science Foundation of China, the China Postdoctoral Science Foundation, the Ministry of Industry and Information Technology, and Beihang University, among others. He has published 14 articles in mainstream peer-reviewed journals in aeronautical and mechanical engineering, including the **AIAA Journal (8 articles)** and Mechanical Systems and Signal Processing (MSSP). He has been recognized with several awards, including the Excellent Doctoral Dissertation Award from the Chinese Society of Aeronautics and Astronautics (awarded to 15 recipients annually), the Graduated with Honor of Beijing, and the ICCES 2023 Best Student Paper Award.
+Xuan Zhou is currently an Assistant Professor at the School of Aeronautic Science and Engineering, Beihang University. He obtained the Ph.D. degree at Beihang University (Supervisor: [Prof. Leiting Dong](https://shi.buaa.edu.cn/dongleiting/en/index.htm)) and Politecnico di Milano (Supervisor: [Prof. Claudio Sbarufatti](https://www.mecc.polimi.it/en/research/faculty/prof-claudio-sbarufatti)) in 2024. His research interests include structural integrity, airframe digital twins, structural health monitoring, and surrogate modeling. His research is supported by grants from the National Science Foundation of China, the China Postdoctoral Science Foundation, the Ministry of Industry and Information Technology, and Beihang University, among others. He has published 17 articles in mainstream peer-reviewed journals in aeronautical and mechanical engineering, including the **AIAA Journal (8 articles)** and Mechanical Systems and Signal Processing (MSSP). He has been recognized with several awards, including the Excellent Doctoral Dissertation Award from the Chinese Society of Aeronautics and Astronautics (awarded to 15 recipients annually), the Graduated with Honor of Beijing, and the ICCES 2023 Best Student Paper Award.
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Curriculum_Vitae_XuanZhou_EN.pdf" "newtab" >}}resumé{{< /staticref >}}, updated 2024-01-06
