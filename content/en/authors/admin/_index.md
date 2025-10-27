@@ -1,13 +1,3 @@
-<!--
- * @Description: 
- * @version: 
- * @Author: Xuan Zhou
- * @Mail: zhoux@buaa.edu.cn
- * @Date: 2024-04-20 10:48:27
- * @LastEditors: Xuan Zhou
- * @LastEditTime: 2025-10-27 17:07:53
- * @history versions: 
--->
 ---
 title: Xuan Zhou
 role: Assistant Professor
