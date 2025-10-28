@@ -1,5 +1,5 @@
 ---
-title: Hybrid Physics–Data-Driven Reduced-Order Modeling for Aerodynamic Load Inversion Considering Structural Field Uncertainty
+title: A novel study on hybrid physics-data-driven reduced-order modeling for aerodynamic load inversion under structural field uncertainties
 publication_types:
   - "2"
 authors:

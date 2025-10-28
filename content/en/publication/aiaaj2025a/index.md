@@ -1,5 +1,5 @@
 ---
-title: Unified Crack Growth Modeling via Parametric Symbolic Regression
+title: Parametric Symbolic Regression for Discovering Unified Crack Growth Models from Diverse Experiments
 publication_types:
   - "2"
 authors:

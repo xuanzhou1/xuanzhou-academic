@@ -1,5 +1,5 @@
 ---
-title: Real-Time In-Service Load Tracking for Airframe Digital Twins
+title: Real-Time In-Service Load Tracking Toward Airframe Digital Twins
 publication_types:
   - "2"
 authors:

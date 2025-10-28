@@ -1,5 +1,5 @@
 ---
-title: Fleet-Level Digital Twin-Based Structural Damage Diagnosis and Prognosis Considering Structural Similarity
+title: Structural damage diagnosis and prognosis with fleet digital twin considering similarity of individual structural features
 publication_types:
   - "2"
 authors:
