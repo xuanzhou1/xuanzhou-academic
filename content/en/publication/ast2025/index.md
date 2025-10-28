@@ -39,5 +39,5 @@ image:
   preview_only: false
   caption: Fleet-level structural damage diagnosis and prognosis considering individual similarity.
 summary: "A fleet-level digital twin method is developed for collaborative structural damage diagnosis and prognosis based on inter-aircraft similarity."
-date: 2026-01-01
+date: 2025-10-07
 ---

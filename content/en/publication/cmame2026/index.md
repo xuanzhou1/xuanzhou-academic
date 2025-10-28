@@ -37,5 +37,5 @@ image:
   preview_only: false
   caption: The hybrid physics–data-driven reduced-order modeling framework for aerodynamic load inversion.
 summary: "A hybrid physics–data-driven reduced-order modeling framework is proposed for aerodynamic load inversion under structural field uncertainty."
-date: 2026-01-01
+date: 2025-10-24
 ---

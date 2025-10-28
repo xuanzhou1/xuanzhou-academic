@@ -44,5 +44,5 @@ image:
   preview_only: false
   caption: Fleet-level structural damage diagnosis and prognosis considering individual similarity.
 summary: "提出了一种基于机队相似性分析的结构损伤诊断与预测方法，可实现机队内损伤状态的协同更新与高精度评估。"
-date: 2026-01-01
+date: 2025-10-07
 ---

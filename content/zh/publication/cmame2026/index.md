@@ -42,5 +42,5 @@ image:
   preview_only: false
   caption: The hybrid physics–data-driven reduced-order modeling framework for aerodynamic load inversion.
 summary: "提出了一种结合降阶建模与混合物理–数据驱动神经网络的气动载荷反演方法，可在结构场不确定条件下实现高精度载荷重构。"
-date: 2026-01-01
+date: 2025-10-24
 ---
